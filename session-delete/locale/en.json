@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Session delete",
+    "description": "Adds Delete session to the session context menu and permanently removes that session's stored log plus its workspace accounting.",
+    "detail": "docs/DETAIL.md"
+  }
+}
