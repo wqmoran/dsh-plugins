@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "关闭沙箱",
+    "description": "Windows ACL 沙箱无法为工作区准备授权时，改为不做系统级隔离直接执行命令。命令不再限制在工作区内。",
+    "detail": "docs/DETAIL.md"
+  }
+}

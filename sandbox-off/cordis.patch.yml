@@ -1,0 +1,3 @@
+- insert:
+    - id: sandbox-off
+      name: '@local/dsh-sandbox-off'

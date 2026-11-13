@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Sandbox off">
+  <path d="M32 6 12 14v16c0 12 8.5 22.6 20 26 11.5-3.4 20-14 20-26V14Z" fill="none" stroke="#8b8b8b" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M20 20 44 44" stroke="#e5484d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M44 20 20 44" stroke="#e5484d" stroke-width="4" stroke-linecap="round"/>
+</svg>

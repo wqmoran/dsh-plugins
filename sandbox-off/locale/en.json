@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Sandbox off",
+    "description": "Runs shell commands without OS-level confinement when the Windows ACL sandbox backend cannot provision the workspace. Commands are not restricted to the workspace.",
+    "detail": "docs/DETAIL.md"
+  }
+}
